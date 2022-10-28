@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-app-react-tareas/static/css/main.e5434598.css",
+    "main.js": "/deploy-app-react-tareas/static/js/main.714b4474.js",
+    "static/js/787.d12c6094.chunk.js": "/deploy-app-react-tareas/static/js/787.d12c6094.chunk.js",
+    "static/media/logo.svg": "/deploy-app-react-tareas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deploy-app-react-tareas/index.html",
+    "main.e5434598.css.map": "/deploy-app-react-tareas/static/css/main.e5434598.css.map",
+    "main.714b4474.js.map": "/deploy-app-react-tareas/static/js/main.714b4474.js.map",
+    "787.d12c6094.chunk.js.map": "/deploy-app-react-tareas/static/js/787.d12c6094.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5434598.css",
+    "static/js/main.714b4474.js"
+  ]
+}
